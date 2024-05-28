@@ -1,4 +1,4 @@
-# Cosmos Fork with aim to create a better UI
+# Cosmos Fork with Quality of Life Improvements
 
 ### Upcoming features 
 - Option for Tailscale VPN during installation
